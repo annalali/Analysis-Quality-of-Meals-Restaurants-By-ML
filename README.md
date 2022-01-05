@@ -6,7 +6,8 @@
 #### 1- How to deal correctly with Arabic texts.\n
 #### 2- To build a system to classify the sentiments in arabic text based restaurant reviews  using machine learning.
 
-## Datasets description:
+## Datasets description: 
+#### [RES1 DataSet](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/tree/master/datasets)
 ######        Table 1: Describe columns by clarifying features and data type.
 
 Features    |Data Type         |Description                    |
@@ -16,7 +17,7 @@ Features    |Data Type         |Description                    |
 |Restaurant_id |Integer        |the restaurant ID on the website.|
 |User_id    |Integer           |the user ID on the website.|
 
-#### [DataSet](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/tree/master/datasets)
+
 
 
 
