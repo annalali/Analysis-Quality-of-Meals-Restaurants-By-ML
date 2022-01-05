@@ -20,7 +20,7 @@ Features    |Data Type         |Description                    |
 
 ### Phase 1: Natural Language Processing (NLP): Arabic text preprocessing
 ### Tools: 
-•	Nltk
+> •	Nltk
 •	arabic_reshaper
 •	preprocessing
 •	PIL
