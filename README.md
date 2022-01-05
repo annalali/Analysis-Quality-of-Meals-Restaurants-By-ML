@@ -9,12 +9,12 @@
 ## Datasets description:
 ######        Table 1: Describe columns by clarifying features and data type.
 
-Features    |Data Type     |Description                    |
-|:-----------|:-------------|:------------------------------|
-|Polarity    |Integer  |which is a string value has two classes (-1: Negative & 1:Positive) indicating the sentiment around the review.|
-|Text        |String  |is the review plain text of a restaurant in Arabic.|
-|Restaurant_id |Integer   |the restaurant ID on the website.|
-|User_id    |Integer |the user ID on the website.|
+Features    |Data Type         |Description                    |
+|:-----------|:----------------|:------------------------------|
+|Polarity    |Integer          |which is a string value has two classes (-1: Negative & 1:Positive) indicating the sentiment around the review.|
+|Text        |String           |is the review plain text of a restaurant in Arabic.|
+|Restaurant_id |Integer        |the restaurant ID on the website.|
+|User_id    |Integer           |the user ID on the website.|
 
 
 
