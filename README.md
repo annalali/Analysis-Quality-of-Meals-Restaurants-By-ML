@@ -16,9 +16,39 @@ Features    |Data Type         |Description                    |
 |Text        |String           |is the review plain text of a restaurant in Arabic.|
 |Restaurant_id |Integer        |the restaurant ID on the website.|
 |User_id    |Integer           |the user ID on the website.|
+ 
+
+### Phase 1: Natural Language Processing (NLP): Arabic text preprocessing
+### Tools: 
+•	Nltk
+•	arabic_reshaper
+•	preprocessing
+•	PIL
+•	bidi.algorithm
+•	arabic_reshaper
+•	WordCloud 
+
+### Phase 2: Supervised learning (Classification Algorithms). 
+### Tools:
+•	CountVectorizer
+•	TfidfVectorizer
+•	imblearn.over_sampling
+•	naive_bayes
+•	linear_model
+
+### Phase 3: Unsupervised Learning (K-Means Clustering)
+### Tools:
+•	cluster
+•	matplotlib.cm
+
+### General Tools
+•	Pandas
+•	Numpy
+•	matplotlib.pyplot.
 
 ### Technical Approach:
-#### We are using python language in the implementations and Jupyter Notebook that support the machine learning and data science projects. 
+#### We are using python language in the implementations and Jupyter Notebook that support the machine learning and data science projects.
+
 
 
 
