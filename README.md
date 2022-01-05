@@ -20,18 +20,18 @@ Features    |Data Type         |Description                    |
 
 ### Phase 1: Natural Language Processing (NLP): Arabic text preprocessing
 ### Tools: 
-#### •	Nltk
-#### •	arabic_reshaper
-#### •	preprocessing
-#### •	PIL
-#### •	bidi.algorithm
-#### •	arabic_reshaper
-#### •	WordCloud 
+•	Nltk
+•	arabic_reshaper
+•	preprocessing
+•	PIL
+•	bidi.algorithm
+•	arabic_reshaper
+•	WordCloud 
 
 ### Phase 2: Supervised learning (Classification Algorithms). 
 ### Tools:
-#### •	CountVectorizer
-#### •	TfidfVectorizer
+•	CountVectorizer
+•	TfidfVectorizer
 •	imblearn.over_sampling
 •	naive_bayes
 •	linear_model
