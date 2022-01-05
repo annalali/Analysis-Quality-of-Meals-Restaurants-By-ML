@@ -17,6 +17,9 @@ Features    |Data Type         |Description                    |
 |Restaurant_id |Integer        |the restaurant ID on the website.|
 |User_id    |Integer           |the user ID on the website.|
 
+### Technical Approach:
+#### We are using python language in the implementations and Jupyter Notebook that support the machine learning and data science projects. 
+
 
 
 
